@@ -98,11 +98,97 @@
       "id": 1,
       "title": "Income title",
       "description": "income description",
-      "created_at": "28-09-2022",
+      "created_at": "28-08-2022",
       "budgetId": "1",
       "typeId": 1,
       "categoryId": 12,
       "value": 10000
+    },
+    {
+      "title": "Food",
+      "description": "mancare",
+      "created_at": "30-08-2022",
+      "budgetId": "1",
+      "typeId": "2",
+      "categoryId": "1",
+      "value": "40",
+      "id": 2
+    },
+    {
+      "title": "Shopping",
+      "description": "mancare",
+      "budgetId": "1",
+      "typeId": "2",
+      "categoryId": "1",
+      "value": "170",
+      "created_at": "31-08-2022",
+      "id": 3
+    },
+    {
+      "title": "Food",
+      "description": "Lidl",
+      "created_at": "01-09-2022",
+      "budgetId": "1",
+      "typeId": "2",
+      "categoryId": "1",
+      "value": "210",
+      "id": 7
+    },
+    {
+      "title": "Shopping",
+      "description": "Carrefour",
+      "created_at": "03-09-2022",
+      "budgetId": "1",
+      "typeId": "2",
+      "categoryId": "1",
+      "value": "270",
+      "id": 8
+    },
+    {
+      "id": 9
+    },
+    {
+      "id": 10
+    },
+    {
+      "title": "World Class",
+      "description": "",
+      "created_at": "01-09-2022",
+      "budgetId": "1",
+      "typeId": "2",
+      "categoryId": "8",
+      "value": "250",
+      "id": 11
+    },
+    {
+      "title": "Cumparaturi",
+      "description": "auchan + lidl",
+      "created_at": "06-09-2022",
+      "budgetId": "1",
+      "typeId": "2",
+      "categoryId": "1",
+      "value": "260",
+      "id": 12
+    },
+    {
+      "title": "7card",
+      "description": "",
+      "created_at": "06-09-2022",
+      "budgetId": "1",
+      "typeId": "2",
+      "categoryId": "8",
+      "value": "155",
+      "id": 13
+    },
+    {
+      "title": "Rent",
+      "description": "",
+      "created_at": "14-09-2022",
+      "budgetId": "2",
+      "typeId": "1",
+      "categoryId": "13",
+      "value": "400",
+      "id": 14
     }
   ]
 }

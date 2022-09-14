@@ -1,0 +1,108 @@
+{
+  "budgets": [
+    {
+      "id": 1,
+      "title": "Monthly Budget",
+      "currencyId": "1"
+    },
+    {
+      "id": 2,
+      "title": "Saving",
+      "currencyId": 2
+    }
+  ],
+  "types": [
+    {
+      "id": 1,
+      "title": "Income"
+    },
+    {
+      "id": 2,
+      "title": "Expenses"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "title": "Foods"
+    },
+    {
+      "id": 2,
+      "title": "House Maintenance Bill"
+    },
+    {
+      "id": 3,
+      "title": "Electricity Bill"
+    },
+    {
+      "id": 4,
+      "title": "Internet & TV Bill"
+    },
+    {
+      "id": 5,
+      "title": "Netflix"
+    },
+    {
+      "id": 6,
+      "title": "Parking Bill"
+    },
+    {
+      "id": 7,
+      "title": "Phone Bill"
+    },
+    {
+      "id": 8,
+      "title": "GYM Membership"
+    },
+    {
+      "id": 9,
+      "title": "Car Fuel"
+    },
+    {
+      "id": 10,
+      "title": "Credit Card"
+    },
+    {
+      "id": 11,
+      "title": "Investments"
+    },
+    {
+      "id": 12,
+      "title": "Salary"
+    },
+    {
+      "id": 13,
+      "title": "Rent"
+    },
+    {
+      "title": "Bank Rate",
+      "id": 14
+    }
+  ],
+  "currencies": [
+    {
+      "id": 1,
+      "title": "RON"
+    },
+    {
+      "id": 2,
+      "title": "EUR"
+    },
+    {
+      "id": 3,
+      "title": "USD"
+    }
+  ],
+  "entries": [
+    {
+      "id": 1,
+      "title": "Income title",
+      "description": "income description",
+      "created_at": "28-09-2022",
+      "budgetId": "1",
+      "typeId": 1,
+      "categoryId": 12,
+      "value": 10000
+    }
+  ]
+}
